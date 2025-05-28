@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Demoblaze_Smoke_Tests">
+    <test name="All_Tests">
+        <classes>
+            <class name="com.tests.LoginTest"/>
+            <class name="com.tests.ProductTest"/>
+            <class name="com.tests.CartTest"/>
+            <class name="com.tests.CheckoutTest"/>
+        </classes>
+    </test>
+</suite>
