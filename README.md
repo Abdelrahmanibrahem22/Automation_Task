@@ -26,9 +26,9 @@ Automation Framework: Selenium WebDriver
 
 Test Framework: TestNG
 
-Build Tool: Maven (if applicable — if not, remove this line)
+Build Tool: Maven 
 
-Browser Driver: ChromeDriver (or other)
+Browser Driver: ChromeDriver
 
 ✅ Test Scenarios
 The suite currently covers the following test cases:
